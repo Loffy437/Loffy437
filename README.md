@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Parallel Computation**
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
+- 👨‍💻 Know more about my projects & experiences at https://github.com/loffy437 
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
@@ -78,11 +78,11 @@ Here are some ideas to get you started:
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika66-Gupta&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loffy437&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&theme=radical" alt="Loffy437" height="159" />
 </p>
 <br>
-<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
+<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=loffy437&show_icons=true&locale=en&theme=radical" alt="loffy437" /></p>
 
 Hi
 

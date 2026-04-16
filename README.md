@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loffy437&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&theme=radical" alt="Loffy437" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj_loffy&show_icons=true&theme=radical" alt="Loffy437" height="159" />
 </p>
 <br>
 <p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=loffy437&show_icons=true&locale=en&theme=radical" alt="loffy437" /></p>

@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **ansgupta.01@gmail.com**
+- 📫 How to reach me **dushyanthdheeraj@gmail.com**
 
 
 **Languages and Tools:**  
